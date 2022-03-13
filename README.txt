@@ -1,0 +1,3 @@
+- Import the BackUP of the Database with the file called AmadeusTestBD.bak. Name the database as AmadeusTest.
+- The BackEnd is the the folder API_CRUD_Test
+- In the file appsettings.json update the ConnectionStrings, chanfe the Server to the corresponding server name which you did the BackUp of the Database
